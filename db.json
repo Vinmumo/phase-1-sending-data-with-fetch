@@ -1,30 +1,1035 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
-      "id": 1
+      "id": "1"
     },
     {
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
-      "id": 2
+      "id": "2"
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
-      "id": 1
+      "id": "1"
     },
     {
       "catName": "Gunnar",
       "catBreed": "American Shorthair",
-      "id": 2
+      "id": "2"
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "id": "0fbb",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "2a74",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "d3da",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "8f41",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "1874",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "34d0",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "b181",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "1b8e",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "cf09",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "f1de",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "77ee",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "c850",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "6f7f",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "2676",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "5ab9",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "90a9",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "0f65",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "9d87",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "539f",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "ab63",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "a873",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "b3dc",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "8d28",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "7525",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "85f3",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "54a0",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "9545",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "296f",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "e6e4",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "1c23",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "396c",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "e99f",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "d8a4",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "5a79",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "35c6",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "3435",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "e79a",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "912d",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "aee2",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "7271",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "fb34",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "889b",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "7683",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "5ea9",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "276e",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "d1b2",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "9801",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "9e31",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "a232",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "ca77",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "46d8",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "a057",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "c907",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "ea0e",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "d01b",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "5bd0",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "1fb5",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "2a5b",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "f6e4",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "468b",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "2d65",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "9e70",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "4ab5",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "915f",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "4564",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "f8af",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "33c4",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "3db6",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "8402",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "f1da",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "7899",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "87e6",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "3781",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "d641",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "44f0",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "cff7",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "3316",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "8365",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "960e",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "d810",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "d54f",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "2351",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "a7bb",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "8768",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "bf37",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "a93f",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "4b2e",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "9302",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "7f3e",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "b089",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "8edb",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "56de",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "e1e0",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "8840",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "b1f0",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "58e0",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "e520",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "f6c2",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "82ea",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "81cb",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "8157",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "0932",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "b168",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "985b",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "c0c0",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "6b18",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "960c",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "b743",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "15e3",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "10c6",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "420a",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "59c5",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "bb80",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "a531",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "eb1a",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "2587",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "d116",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "ee59",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "3734",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "e854",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "e20b",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "66ef",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "e9db",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "be21",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "398c",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "7850",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "c365",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "ec88",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "3104",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "7f37",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "3e88",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "abd4",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "a88c",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "5e6c",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "89e2",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "71e8",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "6491",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "c5a3",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "069c",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "8e9e",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "5479",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "b890",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "1b19",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "cfc0",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "0ee2",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "fd06",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "ff91",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "0d12",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "5749",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "c212",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "a0d6",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "84db",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "4df4",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "3766",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "0da3",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "b263",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "bc8d",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "b294",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "e42f",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "dca4",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "bc4a",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "6dc1",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "6be9",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "7f49",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "9577",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "1d27",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "a133",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "2c05",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "fc9a",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "989e",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "b00a",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "4ef7",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "6328",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "4424",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "75fe",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "4873",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "2b4b",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "b2ca",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "e677",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "580e",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "1d7d",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "2e82",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "0a1b",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "7b16",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "4401",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "0434",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "f7ba",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "2477",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "b33f",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "f2e8",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "c07b",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "6189",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "ca05",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "3185",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "500c",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "9c17",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "cc7d",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "e0b7",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "381f",
+      "name": "Brian",
+      "email": "briancod@gmail.com"
+    },
+    {
+      "id": "5445",
+      "name": "Steve",
+      "email": "steve@steve.com"
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": "9000"
+    }
+  ]
 }
